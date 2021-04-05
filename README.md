@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on [TestValley](https://www.testvalley.kr/).
+- 🌱 I’m currently learning [Kent Beck's Test Driven Development: By Example](https://github.com/smilee/tddbe).
+- 👯 I’m looking to collaborate on [Proto UI](https://github.com/smilee/proto-ui).
+
+
 <!--
 **smilee/smilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
