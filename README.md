@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [TestValley](https://www.testvalley.kr/).
-- 🌱 I’m currently learning [Kent Beck's Test Driven Development: By Example](https://github.com/smilee/tddbe).
+- 🔭 I’m currently working on [AnnoWiz](https://www.annotation-ai.com/).
+- 🌱 I’m currently learning [Storybook](https://storybook.js.org/).
 - 👯 I’m looking to collaborate on [Proto UI](https://github.com/smilee/proto-ui).
 
 
