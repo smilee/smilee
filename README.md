@@ -1,8 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [AnnoWiz](https://www.annotation-ai.com/).
-- 🌱 I’m currently learning [Storybook](https://storybook.js.org/).
-- 👯 I’m looking to collaborate on [Proto UI](https://github.com/smilee/proto-ui).
+- 🔭 I’m currently working on [AnnoWiz](http://frontier.annowiz.com/).
+- 🌱 I’m currently learning [Secure Programming](https://web.archive.org/web/20200814225520/https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html).
 
 
 <!--
