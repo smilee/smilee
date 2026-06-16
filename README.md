@@ -1,8 +1,10 @@
-### Hi there 👋
+# Hi there, I'm Sena 👋
 
-- 🔭 I’m currently working on [Luovanori](https://luovanori.com/).
-- 🌱 I’m currently learning [Secure Programming](https://web.archive.org/web/20200814225520/https://dwheeler.com/secure-programs/Secure-Programs-HOWTO/index.html).
+### 🚀 High-Velocity Frontend Engineer | Product Thinker
 
+An impact-driven Frontend Engineer who thrives in the **0 to 1 product lifecycle**. Experienced in leading the entire service cycle—from initial product planning and UI/UX design to global launch and scaling enterprise-wide design systems. 
+
+I focus on **hyper-productivity** and shrinking **Time-to-Market**, specializing in optimizing high-volume, real-time data readability and designing complex interactive components for AI/ML data processing within the React ecosystem.
 
 <!--
 **smilee/smilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
