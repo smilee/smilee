@@ -1,6 +1,8 @@
-# Hi there, I'm Seungmin 👋
+# Designer who codes. Developer who designs.
 
-### I'm a designer who codes and a developer who designs.
+I take products from nothing to shipped.
+
+### The constant across every domain is product instinct.
 
 I've built products across healthcare, logistics, and ML infrastructure— health risk dashboards, last-mile delivery platforms, annotation tools, and company-wide design systems. I also took time to go independent: launched a Kickstarter-funded TTRPG, shipped a mobile game, and sold character goods at gaming events.
 
