@@ -1,10 +1,10 @@
-# Hi there, I'm Sena 👋
+# Hi there, I'm Seungmin 👋
 
-### 🚀 High-Velocity Frontend Engineer | Product Thinker
+### I'm a designer who codes and a developer who designs.
 
-An impact-driven Frontend Engineer who thrives in the **0 to 1 product lifecycle**. Experienced in leading the entire service cycle—from initial product planning and UI/UX design to global launch and scaling enterprise-wide design systems. 
+I've built products across healthcare, logistics, and ML infrastructure— health risk dashboards, last-mile delivery platforms, annotation tools, and company-wide design systems. I also took time to go independent: launched a Kickstarter-funded TTRPG, shipped a mobile game, and sold character goods at gaming events.
 
-I focus on **hyper-productivity** and shrinking **Time-to-Market**, specializing in optimizing high-volume, real-time data readability and designing complex interactive components for AI/ML data processing within the React ecosystem.
+I'm most useful on 0-to-1 builds—prototyping fast, validating ideas, and iterating toward something that works. Product direction over premature optimization.
 
 <!--
 **smilee/smilee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
